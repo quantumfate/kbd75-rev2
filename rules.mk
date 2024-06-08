@@ -1,0 +1,2 @@
+DEFAULT_FOLDER = kbdfans/kbd75/rev2
+SEND_STRING_ENABLE = yes
